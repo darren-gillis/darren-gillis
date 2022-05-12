@@ -16,7 +16,7 @@
   - ... (as required)
 - 💞️ I’m looking to collaborate on 
   - theoretical and empirical questions regarding fleet dynamics
-  - tests of behavioural hypotheses using fish harvester data
+  - tests of behavioural hypotheses using fisheries data
 - 📫 How to reach me Darren.Gillis@umanitoba.ca
 
 <!---
