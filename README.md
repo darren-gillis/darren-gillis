@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @darren-gillis
 - 👀 I’m interested in fisheries analysis, fleet dynamics, animal behaviour
-- 🌱 I’m currently learning more every day to study "fishing effort"
+- 🖥️ I’m currently learning more every day to study "fishing effort"
   - Spatio-temporal GLMMs and GAMMs
   - Bayesian methods
     - using JAGS and possibly STAN and GRETA
@@ -14,7 +14,7 @@
   - empirical dynamic modelling
   - structural equation modeling
   - ... (as required)
-- 💞️ I’m looking to collaborate on 
+- 👥 I’m looking to collaborate on 
   - theoretical and empirical questions regarding fleet dynamics
   - tests of behavioural hypotheses using fisheries data
 - 📫 How to reach me Darren.Gillis@umanitoba.ca
