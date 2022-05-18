@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @darren-gillis
-- 👀 I’m interested in fisheries analysis, fleet dynamics, animal behaviour
+- 👀 I’m interested in fisheries analysis, fleet dynamics, behavioural ecology
 - 🖥️ I’m currently learning more every day to study "fishing effort"
   
   - CPUE standardization and bias
