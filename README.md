@@ -15,6 +15,11 @@
   - structural equation modeling
   - Bayesian methods
     - using JAGS and possibly STAN and GRETA
+  - Stock Assessment Methods
+    - CPUE based indices
+    - CMSY++ for catch only stock assessment
+    - JABBA (fore Bayesian surplus production models)
+    - Stock Synthesis and Data Limited versions (for explicit and implicit age structed integrated analysis)
   - ... (as required)
 - 👥 I’m looking to collaborate on 
   - theoretical and empirical questions regarding fleet dynamics
